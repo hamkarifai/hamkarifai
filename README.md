@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 ```typescript
-const hamkarifaii = {
+const hamkarifai = {
     role: "Frontend Developer",
     location: "Yogyakarta, Indonesia 🇮🇩",
     code: ["TypeScript", "JavaScript", "Python"],
@@ -138,16 +138,16 @@ Analytics dashboard with real-time data visualization, dark mode support, and se
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamkarifaii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamkarifaii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamkarifai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamkarifai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamkarifaii&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamkarifai&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamkarifaii&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hamkarifai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </div>
 
 ---
@@ -156,7 +156,7 @@ Analytics dashboard with real-time data visualization, dark mode support, and se
 
 <div align="center">
   
-![Snake animation](https://github.com/hamkarifaii/hamkarifaii/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/hamkarifai/hamkarifai/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -173,10 +173,10 @@ Analytics dashboard with real-time data visualization, dark mode support, and se
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-hamkarifaiirifai49%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamkarifaiirifai49@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hamka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadhamkarifaii)
+[![Email](https://img.shields.io/badge/Email-hamkarifairifai49%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamkarifairifai49@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hamka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadhamkarifai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20@hamkarifaii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamkarifaii)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20@hamkarifai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamkarifai)
 
 </div>
 
@@ -196,11 +196,11 @@ Analytics dashboard with real-time data visualization, dark mode support, and se
 
 ### 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/hamkarifaii/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/hamkarifai/count.svg)
 
 <br>
 
-**⭐ From [hamkarifaii](https://github.com/hamkarifaii) with 💙**
+**⭐ From [hamkarifai](https://github.com/hamkarifai) with 💙**
 
 *"Code is poetry, and every commit is a verse."*
 

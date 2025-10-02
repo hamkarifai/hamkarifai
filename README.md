@@ -1,80 +1,60 @@
-![👋 Hi, my name is Muhammad Hamka]([https://avatars.githubusercontent.com/u/xxxx?v=4](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg))
+# 🚀 Muhammad Hamka  
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Muhammad Hamka
-      </h1>
-    </summary>
-  </ul>
-</div>
+**Frontend Developer | Tech Enthusiast | Digital Dreamer**  
 
-**<h3 align="left">Connect with me:</h3>**  
-<p align="left">
-  <a href="https://github.com/hamkarifai" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28">
-  </a>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28">
-  </a>
+Hi, I’m Hamka!  
+I specialize in building **modern, fast, and scalable web applications** with a strong focus on **clean code and performance**.  
+From **React & Vite** to **Next.js fullstack projects with TypeScript**, I love bringing ideas to life with code that not only works — but works beautifully.  
+
+---
+
+## 🏆 Core Expertise
+- ⚡ **Next.js & React Development** → Building scalable apps, SSR/SSG, API routes, and fullstack features.  
+- 📐 **TypeScript** → Writing robust, maintainable, and production-ready applications.  
+- 🎨 **Tailwind CSS** → Designing clean, responsive, and modern interfaces.  
+- 🚀 **Vite + Bun** → Superfast development environment and optimized builds.  
+- 🔗 **API Integration** → Skilled in handling REST APIs with Axios & TanStack Query.  
+
+---
+
+## 💻 Tech Stack
+**Frontend Frameworks**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+
+**Runtime & Tools**  
+![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+**Backend & Others**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+
+---
+
+## ✨ Highlight Projects
+- 🏗 **Next.js Fullstack App (with TypeScript)** → Authentication, API integration, and responsive design.  
+- ⚡ **Todo App (Vite + React + Bun)** → Blazing fast dev environment with Bun runtime.  
+- 🎨 **Tailwind UI Experiments** → Modern UI components and layouts.  
+
+---
+
+## 📊 GitHub Performance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamka&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamka&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
 
-### 🚀 Frontend Enthusiast
-- 💻 Currently building apps with **React + Vite + Bun**  
-- 🌱 Learning how to make apps **faster & more scalable** with modern tools  
-- 💬 Ask me about: **React, Vite, Bun, JavaScript, Git/GitHub**  
-- ⚡ Fun fact: **I love experimenting with new dev stacks and turning ideas into projects**  
+## 🌐 Connect with Me
+📩 [Email Me](mailto:hamkarifai49@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/muhammadhamka) 
 
 ---
 
-### 🛠️ Skills
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React">
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" height="28" alt="Vite">
-  <img src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white" height="28" alt="Bun">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="28" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="28" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28" alt="GitHub">
-</div>
-
----
-
-### 🌟 Featured Projects
-
-#### 📸 Face Recognition App  
-🔹 Real-time face recognition web app built with **React + FastAPI**  
-🔹 Integrated camera input & student database  
-🔹 Used for presence/logging in school projects  
-
-👉 [Repo Link](https://github.com/hamkarifai/face-recognition)  
-
----
-
-#### 📓 Logbook App  
-🔹 Web app to track **student daily activities & tasks**  
-🔹 Built with **React + Vite + Bun**  
-🔹 Includes authentication, task management, and reporting features  
-
-👉 [Repo Link](https://github.com/hamkarifai/logbook-app)  
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hamkarifai&theme=react&show_icons=true" alt="GitHub stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=hamkarifai&theme=react" alt="GitHub streak" />
-</p>
-
----
-
-### ☕ Support Me
-<p align="left">
-  <a href="https://ko-fi.com/yourname" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36">
-  </a>
-</p>
+🔥 *“Great code is not just written — it’s crafted.”*

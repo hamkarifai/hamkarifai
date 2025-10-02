@@ -1,4 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Hamka&fontSize=50&animation=fadeIn&fontAlignY=35)
+![👋 Hi, my name is Muhammad Hamka](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&lines=Frontend+Developer;Tech+Enthusiast;Digital+Dreamer;Always+Learning+New+Things)](https://git.io/typing-svg)
 

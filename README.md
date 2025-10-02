@@ -4,8 +4,11 @@
 
 ---
 
+## 👋 Hi, my name is Muhammad Hamka
+
+---
+
 ## 👋 About Me
-Hi, I’m Hamka!  
 I specialize in building **modern, fast, and scalable web applications** with a strong focus on **clean code and performance**.  
 From **React & Vite** to **Next.js fullstack projects with TypeScript**, I love bringing ideas to life with code that not only works — but works beautifully.  
 
